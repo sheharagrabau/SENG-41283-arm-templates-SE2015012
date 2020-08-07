@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_nbtsslwebserver_name": {
+            "value": null
+        },
+        "servers_nbts_db_name": {
+            "value": null
+        },
+        "serverfarms_ASP_nbtssl_b0f9_name": {
+            "value": null
+        },
+        "components_nbtsslwebserver_name": {
+            "value": null
+        },
+        "frontdoors_nbtssl_frontdoor_name": {
+            "value": null
+        },
+        "profiles_nationalbloodtransfusionservice_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___nbtsslwebserver_name": {
+            "value": null
+        }
+    }
+}
